@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Database
+legallens.db
+
+# Vector DB
+vector_db/
+
+# Uploads
+uploads/
+
+# Frontend
+node_modules/
+dist/
+.env.local
+
+# IDE
+.vscode/
+.idea/
